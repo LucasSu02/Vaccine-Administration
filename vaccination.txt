@@ -1,0 +1,8 @@
+|Code| |Patient_Name| |Vaccine_Name| |Given_Date_And_Time| |Dose_Given|
+ 0006 Ali DM |20/08/2021||17:13:40| D1
+ 0025 Agrula AF |19/09/2021||19:13:42| D1
+ 0026 LucasSu AF |20/09/2021||22:57:00| D1
+ 0026 LucasSu AF |20/09/2021||23:03:00| D2
+ 0024 Raju AF |20/09/2021||23:05:36| D1
+ 0027 Bravo DM |24/09/2021||22:17:54| D1
+ 0027 Bravo DM |24/09/2021||22:19:33| D2
